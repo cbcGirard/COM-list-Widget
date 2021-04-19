@@ -1,5 +1,5 @@
 # COM-list-Widget
-[Rainmeter](rainmeter.net) widget that shows currently available COM (serial) ports on the Windows desktop
+[Rainmeter](https://www.rainmeter.net) widget that shows currently available COM (serial) ports on the Windows desktop
 
 ![Screenshot](/img/screenshot.png)
 
